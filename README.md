@@ -14,11 +14,10 @@ This gap has led to the need for Generative AI-powered systems that can intellig
 The solution is a Stream lit-based AI engine that delivers hyper-personalized financial insights using multimodal inputs.
 It processes structured data (Excel), voice (via Whisper), and images (via EasyOCR & BLIP) to build enriched customer profiles. Sentiment analysis guides tone, while Groq’s LLaMA-3.3-70B generates personalized recommendations, offers, and behavioural insights. 
 A financial health engine scores users based on transactions and sentiment. Sentence embeddings enable product matching via cosine similarity. A feedback loop (simulated RLHF) refines recommendations based on user ratings
-<img width="4948" height="238" alt="image" src="https://github.com/user-attachments/assets/8c92330f-1316-44f2-958a-e09310e57060" />
 
 
 ## 🛠️ How We Built It
-AI-Powered Hyper- Personalization Engine<img width="2529" height="263" alt="image" src="https://github.com/user-attachments/assets/3093d71d-d89d-48bd-b4a9-852a6e2e31d4" />
+<img width="2529" height="263" alt="image" src="https://github.com/user-attachments/assets/3093d71d-d89d-48bd-b4a9-852a6e2e31d4" />
 
 
 ## 🏃 How to Run
