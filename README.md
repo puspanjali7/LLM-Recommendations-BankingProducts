@@ -1,39 +1,25 @@
 # 🚀 Project Name
+AI-Powered Personalization Engine
 
-## 📌 Table of Contents
-- [Introduction](#introduction)
-- [Demo](#demo)
-- [Inspiration](#inspiration)
-- [What It Does](#what-it-does)
-- [How We Built It](#how-we-built-it)
-- [Challenges We Faced](#challenges-we-faced)
-- [How to Run](#how-to-run)
-- [Tech Stack](#tech-stack)
-- [Team](#team)
 
----
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+The problem lies in the growing expectation for deeply personalized experiences—modern customers want products, services, and content tailored exactly to their unique preferences, behavior, and emotions. 
+Traditional rule-based systems struggle to keep up with this demand, especially across multiple channels and data types like text, voice, and images. Businesses also face challenges in interpreting vast, unstructured data and acting on it in real time. 
+This gap has led to the need for Generative AI-powered systems that can intelligently analyze complex customer data and generate dynamic, personalized recommendations and insights at scale.
 
-## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
 
-## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+## 🎥 Solution Approach
+The solution is a Stream lit-based AI engine that delivers hyper-personalized financial insights using multimodal inputs.
+It processes structured data (Excel), voice (via Whisper), and images (via EasyOCR & BLIP) to build enriched customer profiles. Sentiment analysis guides tone, while Groq’s LLaMA-3.3-70B generates personalized recommendations, offers, and behavioural insights. 
+A financial health engine scores users based on transactions and sentiment. Sentence embeddings enable product matching via cosine similarity. A feedback loop (simulated RLHF) refines recommendations based on user ratings
+<img width="4948" height="238" alt="image" src="https://github.com/user-attachments/assets/8c92330f-1316-44f2-958a-e09310e57060" />
 
-## ⚙️ What It Does
-Explain the key features and functionalities of your project.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+AI-Powered Hyper- Personalization Engine<img width="2529" height="263" alt="image" src="https://github.com/user-attachments/assets/3093d71d-d89d-48bd-b4a9-852a6e2e31d4" />
 
-## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
 
 ## 🏃 How to Run
 1. Clone the repository  
@@ -49,11 +35,7 @@ Describe the major technical or non-technical challenges your team encountered.
    npm start  # or python app.py
    ```
 
-## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+
 
 ## 👥 Team
 - **Your Name** - [GitHub](#) | [LinkedIn](#)
