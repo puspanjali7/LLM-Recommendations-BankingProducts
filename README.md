@@ -17,7 +17,7 @@ A financial health engine scores users based on transactions and sentiment. Sent
 
 
 ## 🛠️ How We Built It
-<img width="2529" height="263" alt="image" src="https://github.com/user-attachments/assets/3093d71d-d89d-48bd-b4a9-852a6e2e31d4" />
+<img width="699" height="1047" alt="image" src="https://github.com/user-attachments/assets/156af95e-e511-4aeb-991a-61dbb9381ac9" />
 
 
 ## 🏃 How to Run
@@ -34,8 +34,3 @@ A financial health engine scores users based on transactions and sentiment. Sent
    npm start  # or python app.py
    ```
 
-
-
-## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
